@@ -1,0 +1,63 @@
+#inicio {
+	border: solid 1px #9400d3;
+	padding: 5px;
+	margin: 0 auto;
+	width: 85%;
+	background: #ff69b4	;
+}
+
+fieldset {
+	margin-bottom: 10px;
+}
+
+legend {
+	border: solid 1px #9370db;
+	padding: 5px;
+	font-weight: bold;
+	background: #da70d6;
+	border-radius: 15px;
+}
+
+#fotografia {
+	border: solid 2px;
+	margin: 10px;
+}
+
+body {
+    background: #110011;
+}
+@font-face {
+    font-family: "DS-Digital";
+    src: url("../digital_clock_javascript_version1/DS-DIGIT.TTF") format('truetype');
+    
+}
+
+div {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+
+h1 {
+    font-family: "DS-Digital";
+    color: limegreen;
+    font-size: 10rem;
+    text-align: center;   
+}
+
+h1 {
+        font-size: 5rem;
+        color: rgb(250, 250, 250);
+        text-align: center; 
+    }
+
+
+} 
+div {
+	min-width: 480px;
+	max-height: 1368px;
+}
